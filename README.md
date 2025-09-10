@@ -11,3 +11,5 @@ For a more engaging experience, the system introduces customizable themes. A log
 The development process using Cursor revealed areas where the IDE is extremely helpful, such as rapid prototyping, generating boilerplate code, and simplifying repetitive tasks. However, it also highlighted limitations in handling advanced integrations, fine-grained debugging, and larger system design decisions—showing why traditional development knowledge and external tools remain essential.
 
 In short, this project is both a functional blog system and a case study on the evolving capabilities of agentic IDEs, demonstrating what they can accomplish independently and where they still require human developers to step in.
+Website link:
+http://127.0.0.1:5000/
